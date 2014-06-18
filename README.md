@@ -1,4 +1,7 @@
-Hexagonal-BasicAuth
-===================
+Working features:
 
-BasicAuth using Hexagonal Architecture
+- Login
+- Register
+- Logout
+- Get avatar
+- Get email

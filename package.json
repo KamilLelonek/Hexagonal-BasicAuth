@@ -1,0 +1,19 @@
+{
+    "author": "Kamil Lelonek",
+    "name": "sh-auth",
+    "description": "SH authentication skeleton",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:KamilLelonek/StudentHunter-Backend.git"
+    },
+    "engines": {
+        "node": "~0.10.3"
+    },
+    "dependencies": {
+        "coffee-script": ">= 1.7.1",
+        "jade": ">= 1.3.0",
+        "node-sass": "0.8.1",
+        "handlebars": "1.3.0"
+    }
+}

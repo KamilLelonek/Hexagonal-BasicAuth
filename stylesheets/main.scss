@@ -1,0 +1,18 @@
+input {
+  $color-invalid : red;
+
+  &:not([type=checkbox]) {
+    display : block;
+  }
+  vertical-align : middle;
+
+  &:not(:focus):invalid {
+    outline : 1px solid $color-invalid;
+  }
+
+}
+
+#message {
+  color: red;
+  margin-bottom: 20px;
+}
